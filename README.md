@@ -6,7 +6,7 @@ Me chamo Henrique Parreira Gonçalves, tenho 20 anos e sou de Formiga, Minas Ger
 
 ---
 
-## 🤖 Technologies & Tools
+### 🤖 Ferramentas e Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
