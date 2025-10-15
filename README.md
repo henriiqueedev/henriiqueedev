@@ -14,10 +14,17 @@ Me chamo Henrique Parreira Gonçalves, tenho 20 anos e sou de Formiga, Minas Ger
   </a>
 </p>
 
+---
+
+## 📫 Contato
+
+- **E-mail**: *henriquepg1011@gmail.com*
+- **LinkedIn**: *www.linkedin.com/in/henriqueedev*
+
+---
 
 ### 📊 Estatísticas
 
----
 <p>
   <img 
     align="left" 
